@@ -1,19 +1,16 @@
 const CONFIG = {
     titleWeb: "Demo",
-    introTitle: 'Lô bạn Chúc Quền',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Hế lô em dâu',
+    introDesc: `Nay gảnh phô trương một xíu nè hahahaha`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    title: 'Phải chăng tao đẹp zai tao đẹp zaii 🥰',
+    desc: 'Phải chăng tao goodboiz tao gubboizz ',
+    btnYes: 'Đúng òi <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại khen ình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    reply: 'Tại vì bạn đẹp zaiii <33333333',
+    mess: 'Mình biết mà 🥰. Ghét em dâu ghê. Xong rồi đó 😘😘',
     messDesc: 'Cút đi bạn.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/nhattuong.tran.549'
